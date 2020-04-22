@@ -1,0 +1,11 @@
+/Carthage
+/.build
+/Packages
+xcuserdata
+/Package.pins
+/Package.resolved
+.DS_Store
+/Tests/**
+!/Tests/MOACTests.swift
+!/Tests/Info.plist
+
